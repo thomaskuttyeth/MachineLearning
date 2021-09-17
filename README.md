@@ -2,7 +2,7 @@
 
 ## Algorithms 
 
-* Linear regression 
+* Linear regression and regression analysis 
 * logistic regression 
 * naive bayes 
 * k nearest neighbour 
@@ -47,7 +47,20 @@
     * micro and macro precision 
     * f1 score 
     * fbeta 
-    * 
+    
+    
+## Statistical test for machine learning 
+* t -test 
+* f -test 
+* anova 
+* chi sqaure test
+* sampling methods 
 
 
+## Missing value imputation methods 
 
+
+## Feature engineering techniques 
+
+
+## 
