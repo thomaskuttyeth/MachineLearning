@@ -30,6 +30,8 @@
 * ensembling technique 
 * multi task learning 
 * active learning 
+* regularization  methods 
+* bias variance trade off 
 
 
 
