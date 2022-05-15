@@ -2,7 +2,6 @@ from matplotlib import pyplot as plt
 import numpy as np 
 import pandas as pd
 from sklearn.metrics import accuracy_score, confusion_matrix, f1_score,precision_score, recall_score
-from sqlalchemy import asc
 def threshold_analysis(model,x,y,no_thresh):
     pred_probs = model.predict_proba(x)
     thresholds = np.linspace(0.10,0.9,num = no_thresh)

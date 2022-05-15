@@ -1,0 +1,18 @@
+-1	Num	age
+0	Label	
+1	Categ	job
+2	Categ	marital
+3	Categ	education
+4	Categ	default
+5	Categ	balance
+6	Categ	housing
+7	Categ	loan
+8	Categ	contact
+9	Categ	day
+10	Categ	month
+11	Categ	duration
+12	Categ	campaign
+13	Categ	pdays
+14	Categ	previous
+15	Categ	poutcome
+16	Categ	y
